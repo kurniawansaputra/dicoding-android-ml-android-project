@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="gallery">Gallery</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="image">image</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="no_relevant_results_found">No relevant results found.</string>
+    <string name="cancer">Cancer</string>
+    <string name="non_cancer">Non cancer</string>
+    <string name="select_an_image">Please select an image first</string>
+    <string name="crop_image">Crop Image</string>
+    <string name="crop_failed">Crop failed</string>
+    <string name="result_analyze">%1$s with a confidence score of %2$s.</string>
+    <string name="latest_news">Latest News</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="by">by %s</string>
+    <string name="history">History</string>
+    <string name="results">Results</string>
+    <string name="delete_all">Delete All</string>
+    <string name="no_data">No Data</string>
+</resources>
