@@ -60,7 +60,7 @@ class ImageClassifierHelper(
 
             val imageProcessor = ImageProcessor.Builder()
                 .add(ResizeOp(224, 224, ResizeOp.ResizeMethod.NEAREST_NEIGHBOR))
-                .add(CastOp(DataType.UINT8))
+                .add(CastOp(DataType.FLOAT32))
                 .build()
 
             val tensorImage = TensorImage(DataType.UINT8)
